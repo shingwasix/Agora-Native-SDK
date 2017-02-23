@@ -1,9 +1,9 @@
 # Agora-Native-SDK
 
 [![CI Status](http://img.shields.io/travis/shingwasix/Agora-Native-SDK.svg?style=flat)](https://travis-ci.org/shingwasix/Agora-Native-SDK)
-[![Version](https://img.shields.io/cocoapods/v/Agora-Native-SDK.svg?style=flat)](http://cocoapods.org/pods/Agora-Native-SDK)
-[![License](https://img.shields.io/cocoapods/l/Agora-Native-SDK.svg?style=flat)](http://cocoapods.org/pods/Agora-Native-SDK)
-[![Platform](https://img.shields.io/cocoapods/p/Agora-Native-SDK.svg?style=flat)](http://cocoapods.org/pods/Agora-Native-SDK)
+[![Version](https://img.shields.io/cocoapods/v/Agora-Native-SDK.svg?style=flat)](http://cocoapods.org/pods/Agora-Native-SDK-FULL)
+[![License](https://img.shields.io/cocoapods/l/Agora-Native-SDK.svg?style=flat)](http://cocoapods.org/pods/Agora-Native-SDK-FULL)
+[![Platform](https://img.shields.io/cocoapods/p/Agora-Native-SDK.svg?style=flat)](http://cocoapods.org/pods/Agora-Native-SDK-FULL)
 
 ## Example
 
