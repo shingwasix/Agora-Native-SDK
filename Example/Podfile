@@ -1,0 +1,14 @@
+inhibit_all_warnings!
+
+target 'Agora-Native-SDK_Example' do
+    pod 'Agora-Native-SDK-FULL', :path => '../'
+    
+    target 'Agora-Native-SDK_Tests' do
+        inherit! :search_paths
+        
+        pod 'Specta'
+        pod 'Expecta'
+        pod 'FBSnapshotTestCase/Core'
+        pod 'Expecta+Snapshots'
+    end
+end
