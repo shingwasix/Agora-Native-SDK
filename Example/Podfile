@@ -1,7 +1,7 @@
 inhibit_all_warnings!
 
 target 'Agora-Native-SDK_Example' do
-    pod 'Agora-Native-SDK-FULL', :path => '../'
+    pod 'Agora-Native-SDK-FULL', :podspec => '../Agora-Native-SDK-FULL.podspec'
     
     target 'Agora-Native-SDK_Tests' do
         inherit! :search_paths

@@ -9,6 +9,10 @@
 
 此为非官方整理用于使用 CocoaPods 部署声网音视频通讯SDK的项目
 
+## Version
+
+1.9.0
+
 ## Requirements
 
 iOS 7.0+
