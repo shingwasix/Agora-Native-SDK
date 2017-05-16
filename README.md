@@ -9,6 +9,10 @@
 
 此为非官方整理用于使用 CocoaPods 部署声网音视频通讯SDK的项目
 
+⚠️WARNING：此仓库不再维护，请有需要的同学移步使用官方提供的版本。
+
+=== [传送门🚪](https://docs.agora.io/cn/user_guide/integration/integration_communication_ios.html) ===
+
 ## Version
 
 1.9.0
