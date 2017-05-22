@@ -1,5 +1,5 @@
 PODS:
-  - Agora-Native-SDK-FULL (1.9.0-2)
+  - Agora-Native-SDK-FULL (1.9.1)
   - Expecta (1.0.5)
   - Expecta+Snapshots (2.0.0):
     - Expecta (~> 1.0)
@@ -19,7 +19,7 @@ EXTERNAL SOURCES:
     :podspec: "../Agora-Native-SDK-FULL.podspec"
 
 SPEC CHECKSUMS:
-  Agora-Native-SDK-FULL: 347c1f33d5b23f5a55ce08a4f33329b9c74454c6
+  Agora-Native-SDK-FULL: 50d529b7c3fd1169eaf971a18d7b7c34b5d2268d
   Expecta: e1c022fcd33910b6be89c291d2775b3fe27a89fe
   Expecta+Snapshots: 29b38dd695bc72a0ed2bea833937d78df41943ba
   FBSnapshotTestCase: 7e85180d0d141a0cf472352edda7e80d7eaeb547
@@ -27,4 +27,4 @@ SPEC CHECKSUMS:
 
 PODFILE CHECKSUM: 65c97f68abd9f0b4c74fd5952ea044d10a3c2326
 
-COCOAPODS: 1.1.1
+COCOAPODS: 1.2.1
